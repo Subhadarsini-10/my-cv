@@ -1,0 +1,56 @@
+body{
+  background-color: skyblue;
+  margin: 0;
+  text-align: center;
+}
+h1{
+  color: skyblue;
+  margin-top: 0;
+  font-size: 50px;
+  font-family: 'Sacramento', cursive;
+}
+h2{
+  color: skyblue;
+  margin-top: 0;
+  font-size: 20px;
+  font-family: 'Sacramento', cursive;
+}
+h3{
+  color: #E4F9F5;
+}
+h4{
+  color: skyblue;
+  font-size: 30px;
+}
+.pro-image{
+  position: absolute;
+  height: 200px;
+  width: 200px;
+  left: 530px;
+  right: 500px;
+  bottom:90px;
+}
+.top-container{ background-color: #E4F9F5;
+                position: relative;
+                padding-top: 10px;
+                height: 200px;}
+.middle-container{
+  background-color: skyblue;
+  height: 300px;
+}
+.end-container{
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 10px;
+  height: 500px;
+}
+.skills{
+  text-decoration: underline;
+}
+.project{text-decoration: underline;}
+p{
+  color: white;
+}
+.github{
+  background-color: skyblue;
+}
